@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-10-27T00:00:00Z",
+  "dataset": "synthetic-starter-example",
+  "base_currency": "USD",
+  "simulation_start": "2026-01-01",
+  "forecast_horizon_days": 3,
+  "counts": {
+    "legal_entities": 2,
+    "bank_accounts": 3,
+    "forecast_runs": 1,
+    "forecast_positions": 9
+  },
+  "notes": [
+    "Synthetic example for documentation only.",
+    "Values are not copied from the local PostgreSQL database."
+  ]
+}
